@@ -19,9 +19,9 @@
 
 ## 2. Domain Acquisition
 
-Choose a neutral-sounding domain name first
+- [ ] Choose a neutral-sounding domain name first
 - e.g. `cdn-assets-[random].com` or `static-[random]-files.net` — avoid pentest, red, hack.
-- [ ]**OR**
+  **OR**
 - [ ] Browse expireddomains.net for seasoned domains
   - Go to `Domain Lists → GoDaddy Closeout Domains` → click the Price filter to find the cheapest option.
 - [ ] Check ABY (birth year) of the domain
