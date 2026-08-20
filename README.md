@@ -8,6 +8,8 @@
   - Use ProtonMail or similar — not tied to your real identity. Used for all accounts below.
 - [ ] Create a single-use virtual card via Privacy.com
   - Free virtual cards, ties to a US bank account. Use this burner card for **all** purchases — DigitalOcean, GoDaddy, and any other services.
+  - **Monero (XMR)** — best option for full separation, accepted by Njalla
+  - **Bitcoin** — accepted by Njalla, less private than Monero but workable
 - [ ] Generate SSH keypair locally before anything else
   - `ssh-keygen`
 - [ ] Validate the public key is ready to paste into DigitalOcean
@@ -17,6 +19,9 @@
 
 ## 2. Domain Acquisition
 
+- [ ] Choose a neutral-sounding domain name first
+- [ ]e.g. `cdn-assets-[random].com` or `static-[random]-files.net` — avoid pentest, red, hack.
+- [ ]**OR**
 - [ ] Browse expireddomains.net for seasoned domains
   - Go to `Domain Lists → GoDaddy Closeout Domains` → click the Price filter to find the cheapest option.
 - [ ] Check ABY (birth year) of the domain
